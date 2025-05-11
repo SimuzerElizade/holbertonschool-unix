@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "cd -" > 3-back
+cd -
